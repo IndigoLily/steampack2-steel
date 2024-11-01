@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "required": false,
+      "id": "create:industrial_iron_block"
+    }
+  ]
+}
